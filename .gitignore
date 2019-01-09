@@ -1,0 +1,6 @@
+.DS_Store
+.next
+.vscode
+node_modules
+*.log
+
